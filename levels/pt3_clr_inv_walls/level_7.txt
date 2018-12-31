@@ -1,0 +1,16 @@
+dddddddddddddddd
+d@.....GG...YY.d
+dRgRgR.GG.R.gg.d
+d......gg.g.YY.d
+d.GgGgGgG.R.gg.d
+d.g.G...g.g.YY.d
+d.G...R.G.R.gg.d
+d.g.RgR.g.g.YY.d
+d.G...g.G.R.gg.d
+d.g.B.R...g.YY.d
+d.G.B.g.V.R.gg.d
+d.g.g.R.g.g.YY.d
+d.G.B.g.VgV.gg.d
+d.G.g.R...B.YY.d
+d...B.R.B.B...#d
+dddddddddddddddd
